@@ -1,0 +1,42 @@
+.vec1{
+  position: absolute;
+width: 913.26px;
+height: 924.08px;
+right: -104.27px;
+bottom: 367.52px;
+background: rgba(244, 121, 32, 0.81);
+filter: blur(400px);
+transform: rotate(100.18deg);
+}
+
+
+
+.vec2{
+  position: absolute;
+width: 705px;
+height: 695px;
+right: -118px;
+bottom: 223px;
+background: rgba(0, 255, 0, 0.83);
+filter: blur(250px);
+}
+.vec3{
+  position: absolute;
+width: 532.93px;
+height: 459.47px;
+left: 362.97px;
+top: 575.5px;
+background: #00FF00;
+filter: blur(300px);
+transform: rotate(15deg);
+}
+
+.black_man{
+  position: absolute;
+width: 615px;
+height: 739px;
+ ,kjhgfdsa  `12345left: 1000px;
+top: 100px;
+background: url(.png);
+border-radius: 20px 0px 0px 20px;
+}

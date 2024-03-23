@@ -1,0 +1,6 @@
+{
+  "editor.minimap.maxColumn": 100,
+  "editor.minimap.side": "right",
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true
+}
